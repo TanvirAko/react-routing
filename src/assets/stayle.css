@@ -1,0 +1,23 @@
+.box{
+
+  margin-top: 50px;
+    
+}
+.ul-menu {
+    font-size: 22px;
+    background-color: white;
+    margin-top: 64px;
+}
+.li_menu{
+    color: black;
+}
+.news_photo{
+  width: 323px;
+  margin-bottom: 4px;
+
+}
+.btnss{
+  margin-left: 21px;
+  padding: 0px;
+  font-size: 13px;
+}
